@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<!-- 
+<?xml version="1.0"?>
+<!--
 /**
  * NOTICE OF LICENSE
  *
@@ -31,31 +31,7 @@
  * @copyright  Copyright (c) 2019 Merchant Protocol, LLC (https://merchantprotocol.com/)
  * @license    MIT License
  */
- 
- @see https://docsify.js.org/#/
- -->
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Documentation - Magento 2 Docs - Merchant Protocol</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
-  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
-</head>
-<body>
-<!--   <nav> -->
-<!--     <a href="#/">EN</a> -->
-<!--   </nav> -->
-  <div id="app"></div>
-  <script>
-    window.$docsify = {
-      name: 'Documentation - Magento 2 Docs - Merchant Protocol',
-      repo: 'https://github.com/merchantprotocol/docs/',
-      loadSidebar: true,
-      loadNavbar: true
-    }
-  </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-</body>
-</html>
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Merchantprotocol_Docs" setup_version="0.0.1"></module>
+</config>

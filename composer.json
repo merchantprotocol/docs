@@ -7,7 +7,7 @@
         "source": "https://github.com/merchantprotocol/docs/",
         "docs": ""
     },
-	"type" : "library",
+	"type" : "magento2-module",
 	"license" : "MIT",
 	"authors" : [{
 			"name" : "Jack",
@@ -17,11 +17,14 @@
 	"version" : "0.0.1",
 	"minimum-stability" : "stable",
 	"require": {
-		"erusev/parsedown" : "~1.7.3",
+		"erusev/parsedown" : "~1.7.3"
 	},
 	"autoload" : {
-        "psr-0": {
-            "Docs": "src/"
-        }
+		"files" : [
+			"registration.php"
+		],
+		"psr-4" : {
+			"Merchantprotocol\\Docs\\" : ""
+		}
 	}
 }
