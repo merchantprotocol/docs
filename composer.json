@@ -20,7 +20,7 @@
 	},
 	"autoload" : {
 		"files" : [
-			"src/Merchantprotocol/Docs/registration.php"
+			"registration.php"
 		],
 		"psr-4" : {
 			"Merchantprotocol\\Docs\\" : ""
