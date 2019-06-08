@@ -23,6 +23,7 @@ The Product in Websites section identifies each website where the product is ava
 5.	When complete, tap `Save`. Then, do the following:
 
   a.	When you return to the product record, set the **Store View** chooser to the store view to which the product was copied. When prompted to confirm scope switching, tap `OK`.
+
   b.	Enter the **Price** of the product for this store view.
 Because the scope of the base currency is set to "website," it is possible to sell the product for a different price in each website.
 

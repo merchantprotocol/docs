@@ -11,22 +11,29 @@ Adding customizable options to a product is an easy way to offer customers a sel
 3.	In the upper-left corner, tap  `New Option` . Then, do the following:
 
   a.	In the **Option Title** field, enter a name for the option.
+
   b.	Set the **Option Type** for data entry.
+
   c.	If the option is not required to purchase the product, clear the **Required** checkbox.
   
   ![New Option](https://docs.magento.com/m2/ce/user_guide/Resources/Images/product-customizable-options-new-option_thumb_0_0.png)
 
 4.	Tap `Add New Row` . Then, complete the following:
 ![Add Value](https://docs.magento.com/m2/ce/user_guide/Resources/Images/product-customizable-options-add-values_thumb_0_0.png)
-a.	In the **Title** field, enter a name for this option.
-b.	In the **Price** field, enter any markup or markdown from the base product price that applies to this option.
-c.	Set **Price Type** to one of the following:
 
+  a.	In the **Title** field, enter a name for this option.
+
+  b.	In the **Price** field, enter any markup or markdown from the base product price that applies to this option.
+
+  c.	Set **Price Type** to one of the following:
+
+VALUE | DESCRIPTION
 -- | --
 Fixed | The price of the variation differs from the price of the base product by a fixed monetary amount, such as $1.
 Percentage | The price of the variation differs from the price of the base product by a percentage, such as 10%.
 
   d.	Enter a SKU for the option. The option SKU is a suffix that is added to the product SKU.
+
   e.	To change the order of the options, tap the Change Order icon , and drag the option to a new position in the list.
 
   ![Change Order of Options](https://docs.magento.com/m2/ce/user_guide/Resources/Images/product-customizable-options-move_thumb_0_0.png)

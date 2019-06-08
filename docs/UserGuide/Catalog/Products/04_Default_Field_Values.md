@@ -17,17 +17,17 @@ The placeholders that represent the value of another field are enclosed in doubl
 
 ### To edit the placeholder value:
 
-1.	On the Admin sidebar, tap Stores. Then under Settings, choose Configuration.
+1.	On the Admin sidebar, tap **Stores**. Then under **Settings**, choose **Configuration**.
 
-2.	In the panel on the left under Catalog, choose Catalog.
+2.	In the panel on the left under Catalog, choose **Catalog**.
 
-3.	Expand the Product Fields Auto-Generation section. Then, make any changes needed to the placeholder values.
+3.	Expand the **Product Fields Auto-Generation** section. Then, make any changes needed to the placeholder values.
 
-For example, if there’s a specific keyword that you want to include for every product, or a phrase that you want to include in every meta description, you can type the value directly into the appropriate field.
+  For example, if there’s a specific keyword that you want to include for every product, or a phrase that you want to include in every meta description, you can type the value directly into the appropriate field.
 
-If you want to keep the existing placeholder values, be careful to preserve the double curly braces that enclose each markup tag.
+  If you want to keep the existing placeholder values, be careful to preserve the double curly braces that enclose each markup tag.
 
-4.	When complete, tap  Save Config .
+4.	When complete, tap  `Save Config` .
 
 ### Common Placeholders
 

@@ -7,7 +7,7 @@ The remaining product settings are located at the bottom of the page. Some setti
 
 Tap the section. The button indicates if it is currently expanded ![](https://docs.magento.com/m2/ce/user_guide/Resources/Images/btn-expand.png)  or collapsed ![](https://docs.magento.com/m2/ce/user_guide/Resources/Images/btn-collapse_19x18.png).
 
-1[Other Settings](https://docs.magento.com/m2/ce/user_guide/Resources/Images/product-settings-other_thumb_0_0.png)
+![Other Settings](https://docs.magento.com/m2/ce/user_guide/Resources/Images/product-settings-other_thumb_0_0.png)
 
 ## General Settings
 

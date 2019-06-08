@@ -12,6 +12,7 @@ Gift Options can be set at the product level to allow a gift message to be inclu
   Scroll down and expand ![](https://docs.magento.com/m2/ce/user_guide/Resources/Images/btn-expand.png) the **Gift Options** section. Then, do the following:
 
   a.	To override the default setting, clear the **Use Config Settings** checkbox.
+
   b.	Set **Allow Gift Message** as needed for the product.
 
 2.	When complete, tap `Save`.
