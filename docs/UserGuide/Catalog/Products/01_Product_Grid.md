@@ -1,4 +1,4 @@
-Product Catalog
+Product Grid
 --
 
 All products in the catalog are accessible from the Products page, where you can create new products and edit existing ones. For a multisite installation, each website can offer a different selection of products for sale from the same catalog.
