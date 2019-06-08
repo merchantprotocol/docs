@@ -1,12 +1,11 @@
 {
 	"name" : "merchantprotocol/docs",
 	"description" : "Docs displays your Standard Operating Procedures, KnowledgeBase and Training Guides within the Magento 2 Admin",
-	"homepage": "https://merchantprotocol.com/",
-    "support": {
-        "issues": "https://github.com/merchantprotocol/docs/issues",
-        "source": "https://github.com/merchantprotocol/docs/",
-        "docs": ""
-    },
+	"homepage" : "https://merchantprotocol.com/",
+	"support" : {
+		"issues" : "https://github.com/merchantprotocol/docs/issues",
+		"source" : "https://github.com/merchantprotocol/docs/"
+	},
 	"type" : "magento2-module",
 	"license" : "MIT",
 	"authors" : [{
@@ -16,12 +15,12 @@
 	],
 	"version" : "0.0.1",
 	"minimum-stability" : "stable",
-	"require": {
+	"require" : {
 		"erusev/parsedown" : "~1.7.3"
 	},
 	"autoload" : {
 		"files" : [
-			"Merchantprotocol/Docs/registration.php"
+			"src/Merchantprotocol/Docs/registration.php"
 		],
 		"psr-4" : {
 			"Merchantprotocol\\Docs\\" : ""
