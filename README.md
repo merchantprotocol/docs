@@ -29,4 +29,5 @@ We have packaged this script to work with composer. Run the following command wh
 
 Resources
 --
+* [Documentation](https://merchantprotocol.github.io/docs/)
 * [Packagist](https://packagist.org/packages/merchantprotocol/docs)
