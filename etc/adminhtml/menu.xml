@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
 /**
  * NOTICE OF LICENSE
@@ -32,6 +32,10 @@
  * @license    MIT License
  */
 -->
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
-    <module name="Merchantprotocol_Docs" setup_version="0.0.1"></module>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <update id="MP_Organizations::organization" title="Organization" translate="title" module="MP_Organizations" sortOrder="50" resource="MP_Organizations::organization"/>
+        <add id="Merchantprotocol_Docs::organization_documentation" title="Documentation" translate="title" module="Merchantprotocol_Docs" sortOrder="50" parent="MP_Organizations::organization" resource="Merchantprotocol_Docs::organization_documentation"/>
+        <add id="Merchantprotocol_Docs::organization_documentation_knowledgebase" title="Knowledgebase" translate="title" module="Merchantprotocol_Docs" sortOrder="51" parent="MP_Organizations::organization" action="mpdocs/knowledgebase" resource="MP_Organizations::manage"/>
+	</menu>
 </config>
