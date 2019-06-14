@@ -14,5 +14,5 @@
 - Magento Frontend
 * [Getting Started](/frontend/)
 
-- Doc Module
-* [Getting Started](/docs/)
+- AWS AMI EC2
+* [Getting Started](/ami/)
