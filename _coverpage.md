@@ -4,9 +4,8 @@
 
 > Customize It For Your CSRs
 
-- Magento 2 Admin Module
-- Public Module For API Information
-- Customize With Your SOPs
+- Magento 2 Documentation
+- AWS AMI Documentation
 
 [GitHub](https://github.com/merchantprotocol/docs)
 [Getting Started](#main)
